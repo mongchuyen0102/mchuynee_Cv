@@ -11,8 +11,8 @@ $(function(){
     jQuery(document).ready(function() {
 		$('body').backstretch([
 	 		 "images/about.jpg", 
-	 		 "images/bg1.jpg",
-			 "images/bg3.jpg"
+	 		 "images/bg2.jpg",
+			 "images/bg4.jpg"
 	 			], 	{duration: 3200, fade: 1300});
 		});
 })
